@@ -1,5 +1,7 @@
 # Color Detection
 
+![image](https://github.com/MashodRana/color-detection-service-django/blob/master/media/responses/8GY8TO7AP5.png)
+
 Detect the colors present in an image through pixel extraction and by clustering pixels.
 
 Color detection service implemented with django as web application.
