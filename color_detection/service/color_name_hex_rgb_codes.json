@@ -1,0 +1,6651 @@
+{
+    "names": [
+        "cloudy blue",
+        "dark pastel green",
+        "dust",
+        "electric lime",
+        "fresh green",
+        "light eggplant",
+        "nasty green",
+        "really light blue",
+        "tea",
+        "warm purple",
+        "yellowish tan",
+        "cement",
+        "dark grass green",
+        "dusty teal",
+        "grey teal",
+        "macaroni and cheese",
+        "pinkish tan",
+        "spruce",
+        "strong blue",
+        "toxic green",
+        "windows blue",
+        "blue blue",
+        "blue with a hint of purple",
+        "booger",
+        "bright sea green",
+        "dark green blue",
+        "deep turquoise",
+        "green teal",
+        "strong pink",
+        "bland",
+        "deep aqua",
+        "lavender pink",
+        "light moss green",
+        "light seafoam green",
+        "olive yellow",
+        "pig pink",
+        "deep lilac",
+        "desert",
+        "dusty lavender",
+        "purpley grey",
+        "purply",
+        "candy pink",
+        "light pastel green",
+        "boring green",
+        "kiwi green",
+        "light grey green",
+        "orange pink",
+        "tea green",
+        "very light brown",
+        "egg shell",
+        "eggplant purple",
+        "powder pink",
+        "reddish grey",
+        "baby shit brown",
+        "liliac",
+        "stormy blue",
+        "ugly brown",
+        "custard",
+        "darkish pink",
+        "deep brown",
+        "greenish beige",
+        "manilla",
+        "off blue",
+        "battleship grey",
+        "browny green",
+        "bruise",
+        "kelley green",
+        "sickly yellow",
+        "sunny yellow",
+        "azul",
+        "darkgreen",
+        "green/yellow",
+        "lichen",
+        "light light green",
+        "pale gold",
+        "sun yellow",
+        "tan green",
+        "burple",
+        "butterscotch",
+        "toupe",
+        "dark cream",
+        "indian red",
+        "light lavendar",
+        "poison green",
+        "baby puke green",
+        "bright yellow green",
+        "charcoal grey",
+        "squash",
+        "cinnamon",
+        "light pea green",
+        "radioactive green",
+        "raw sienna",
+        "baby purple",
+        "cocoa",
+        "light royal blue",
+        "orangeish",
+        "rust brown",
+        "sand brown",
+        "swamp",
+        "tealish green",
+        "burnt siena",
+        "camo",
+        "dusk blue",
+        "fern",
+        "old rose",
+        "pale light green",
+        "peachy pink",
+        "rosy pink",
+        "light bluish green",
+        "light bright green",
+        "light neon green",
+        "light seafoam",
+        "tiffany blue",
+        "washed out green",
+        "browny orange",
+        "nice blue",
+        "sapphire",
+        "greyish teal",
+        "orangey yellow",
+        "parchment",
+        "straw",
+        "very dark brown",
+        "terracota",
+        "ugly blue",
+        "clear blue",
+        "creme",
+        "foam green",
+        "grey/green",
+        "light gold",
+        "seafoam blue",
+        "topaz",
+        "violet pink",
+        "wintergreen",
+        "yellow tan",
+        "dark fuchsia",
+        "indigo blue",
+        "light yellowish green",
+        "pale magenta",
+        "rich purple",
+        "sunflower yellow",
+        "green/blue",
+        "leather",
+        "racing green",
+        "vivid purple",
+        "dark royal blue",
+        "hazel",
+        "muted pink",
+        "booger green",
+        "canary",
+        "cool grey",
+        "dark taupe",
+        "darkish purple",
+        "true green",
+        "coral pink",
+        "dark sage",
+        "dark slate blue",
+        "flat blue",
+        "mushroom",
+        "rich blue",
+        "dirty purple",
+        "greenblue",
+        "icky green",
+        "light khaki",
+        "warm blue",
+        "dark hot pink",
+        "deep sea blue",
+        "carmine",
+        "dark yellow green",
+        "pale peach",
+        "plum purple",
+        "golden rod",
+        "neon red",
+        "old pink",
+        "very pale blue",
+        "blood orange",
+        "grapefruit",
+        "sand yellow",
+        "clay brown",
+        "dark blue grey",
+        "flat green",
+        "light green blue",
+        "warm pink",
+        "dodger blue",
+        "gross green",
+        "ice",
+        "metallic blue",
+        "pale salmon",
+        "sap green",
+        "algae",
+        "bluey grey",
+        "greeny grey",
+        "highlighter green",
+        "light light blue",
+        "light mint",
+        "raw umber",
+        "vivid blue",
+        "deep lavender",
+        "dull teal",
+        "light greenish blue",
+        "mud green",
+        "pinky",
+        "red wine",
+        "shit green",
+        "tan brown",
+        "darkblue",
+        "rosa",
+        "lipstick",
+        "pale mauve",
+        "claret",
+        "dandelion",
+        "orangered",
+        "poop green",
+        "ruby",
+        "dark",
+        "greenish turquoise",
+        "pastel red",
+        "piss yellow",
+        "bright cyan",
+        "dark coral",
+        "algae green",
+        "darkish red",
+        "reddy brown",
+        "blush pink",
+        "camouflage green",
+        "lawn green",
+        "putty",
+        "vibrant blue",
+        "dark sand",
+        "purple/blue",
+        "saffron",
+        "twilight",
+        "warm brown",
+        "bluegrey",
+        "bubble gum pink",
+        "duck egg blue",
+        "greenish cyan",
+        "petrol",
+        "royal",
+        "butter",
+        "dusty orange",
+        "off yellow",
+        "pale olive green",
+        "orangish",
+        "leaf",
+        "light blue grey",
+        "dried blood",
+        "lightish purple",
+        "rusty red",
+        "lavender blue",
+        "light grass green",
+        "light mint green",
+        "sunflower",
+        "velvet",
+        "brick orange",
+        "lightish red",
+        "pure blue",
+        "twilight blue",
+        "violet red",
+        "yellowy brown",
+        "carnation",
+        "muddy yellow",
+        "dark seafoam green",
+        "deep rose",
+        "dusty red",
+        "grey/blue",
+        "lemon lime",
+        "purple/pink",
+        "brown yellow",
+        "purple brown",
+        "wisteria",
+        "banana yellow",
+        "lipstick red",
+        "water blue",
+        "brown grey",
+        "vibrant purple",
+        "baby green",
+        "barf green",
+        "eggshell blue",
+        "sandy yellow",
+        "cool green",
+        "pale",
+        "blue/grey",
+        "hot magenta",
+        "greyblue",
+        "purpley",
+        "baby shit green",
+        "brownish pink",
+        "dark aquamarine",
+        "diarrhea",
+        "light mustard",
+        "pale sky blue",
+        "turtle green",
+        "bright olive",
+        "dark grey blue",
+        "greeny brown",
+        "lemon green",
+        "light periwinkle",
+        "seaweed green",
+        "sunshine yellow",
+        "ugly purple",
+        "medium pink",
+        "puke brown",
+        "very light pink",
+        "viridian",
+        "bile",
+        "faded yellow",
+        "very pale green",
+        "vibrant green",
+        "bright lime",
+        "spearmint",
+        "light aquamarine",
+        "light sage",
+        "yellowgreen",
+        "baby poo",
+        "dark seafoam",
+        "deep teal",
+        "heather",
+        "rust orange",
+        "dirty blue",
+        "fern green",
+        "bright lilac",
+        "weird green",
+        "peacock blue",
+        "avocado green",
+        "faded orange",
+        "grape purple",
+        "hot green",
+        "lime yellow",
+        "mango",
+        "shamrock",
+        "bubblegum",
+        "purplish brown",
+        "vomit yellow",
+        "pale cyan",
+        "key lime",
+        "tomato red",
+        "lightgreen",
+        "merlot",
+        "night blue",
+        "purpleish pink",
+        "apple",
+        "baby poop green",
+        "green apple",
+        "heliotrope",
+        "yellow/green",
+        "almost black",
+        "cool blue",
+        "leafy green",
+        "mustard brown",
+        "dusk",
+        "dull brown",
+        "frog green",
+        "vivid green",
+        "bright light green",
+        "fluro green",
+        "kiwi",
+        "seaweed",
+        "navy green",
+        "ultramarine blue",
+        "iris",
+        "pastel orange",
+        "yellowish orange",
+        "perrywinkle",
+        "tealish",
+        "dark plum",
+        "pear",
+        "pinkish orange",
+        "midnight purple",
+        "light urple",
+        "dark mint",
+        "greenish tan",
+        "light burgundy",
+        "turquoise blue",
+        "ugly pink",
+        "sandy",
+        "electric pink",
+        "muted purple",
+        "mid green",
+        "greyish",
+        "neon yellow",
+        "banana",
+        "carnation pink",
+        "tomato",
+        "sea",
+        "muddy brown",
+        "turquoise green",
+        "buff",
+        "fawn",
+        "muted blue",
+        "pale rose",
+        "dark mint green",
+        "amethyst",
+        "blue/green",
+        "chestnut",
+        "sick green",
+        "pea",
+        "rusty orange",
+        "stone",
+        "rose red",
+        "pale aqua",
+        "deep orange",
+        "earth",
+        "mossy green",
+        "grassy green",
+        "pale lime green",
+        "light grey blue",
+        "pale grey",
+        "asparagus",
+        "blueberry",
+        "purple red",
+        "pale lime",
+        "greenish teal",
+        "caramel",
+        "deep magenta",
+        "light peach",
+        "milk chocolate",
+        "ocher",
+        "off green",
+        "purply pink",
+        "lightblue",
+        "dusky blue",
+        "golden",
+        "light beige",
+        "butter yellow",
+        "dusky purple",
+        "french blue",
+        "ugly yellow",
+        "greeny yellow",
+        "orangish red",
+        "shamrock green",
+        "orangish brown",
+        "tree green",
+        "deep violet",
+        "gunmetal",
+        "blue/purple",
+        "cherry",
+        "sandy brown",
+        "warm grey",
+        "dark indigo",
+        "midnight",
+        "bluey green",
+        "grey pink",
+        "soft purple",
+        "blood",
+        "brown red",
+        "medium grey",
+        "berry",
+        "poo",
+        "purpley pink",
+        "light salmon",
+        "snot",
+        "easter purple",
+        "light yellow green",
+        "dark navy blue",
+        "drab",
+        "light rose",
+        "rouge",
+        "purplish red",
+        "slime green",
+        "baby poop",
+        "irish green",
+        "pink/purple",
+        "dark navy",
+        "greeny blue",
+        "light plum",
+        "pinkish grey",
+        "dirty orange",
+        "rust red",
+        "pale lilac",
+        "orangey red",
+        "primary blue",
+        "kermit green",
+        "brownish purple",
+        "murky green",
+        "wheat",
+        "very dark purple",
+        "bottle green",
+        "watermelon",
+        "deep sky blue",
+        "fire engine red",
+        "yellow ochre",
+        "pumpkin orange",
+        "pale olive",
+        "light lilac",
+        "lightish green",
+        "carolina blue",
+        "mulberry",
+        "shocking pink",
+        "auburn",
+        "bright lime green",
+        "celadon",
+        "pinkish brown",
+        "poo brown",
+        "bright sky blue",
+        "celery",
+        "dirt brown",
+        "strawberry",
+        "dark lime",
+        "copper",
+        "medium brown",
+        "muted green",
+        "robin's egg",
+        "bright aqua",
+        "bright lavender",
+        "ivory",
+        "very light purple",
+        "light navy",
+        "pink red",
+        "olive brown",
+        "poop brown",
+        "mustard green",
+        "ocean green",
+        "very dark blue",
+        "dusty green",
+        "light navy blue",
+        "minty green",
+        "adobe",
+        "barney",
+        "jade green",
+        "bright light blue",
+        "light lime",
+        "dark khaki",
+        "orange yellow",
+        "ocre",
+        "maize",
+        "faded pink",
+        "british racing green",
+        "sandstone",
+        "mud brown",
+        "light sea green",
+        "robin egg blue",
+        "aqua marine",
+        "dark sea green",
+        "soft pink",
+        "orangey brown",
+        "cherry red",
+        "burnt yellow",
+        "brownish grey",
+        "camel",
+        "purplish grey",
+        "marine",
+        "greyish pink",
+        "pale turquoise",
+        "pastel yellow",
+        "bluey purple",
+        "canary yellow",
+        "faded red",
+        "sepia",
+        "coffee",
+        "bright magenta",
+        "mocha",
+        "ecru",
+        "purpleish",
+        "cranberry",
+        "darkish green",
+        "brown orange",
+        "dusky rose",
+        "melon",
+        "sickly green",
+        "silver",
+        "purply blue",
+        "purpleish blue",
+        "hospital green",
+        "shit brown",
+        "mid blue",
+        "amber",
+        "easter green",
+        "soft blue",
+        "cerulean blue",
+        "golden brown",
+        "bright turquoise",
+        "red pink",
+        "red purple",
+        "greyish brown",
+        "vermillion",
+        "russet",
+        "steel grey",
+        "lighter purple",
+        "bright violet",
+        "prussian blue",
+        "slate green",
+        "dirty pink",
+        "dark blue green",
+        "pine",
+        "yellowy green",
+        "dark gold",
+        "bluish",
+        "darkish blue",
+        "dull red",
+        "pinky red",
+        "bronze",
+        "pale teal",
+        "military green",
+        "barbie pink",
+        "bubblegum pink",
+        "pea soup green",
+        "dark mustard",
+        "shit",
+        "medium purple",
+        "very dark green",
+        "dirt",
+        "dusky pink",
+        "red violet",
+        "lemon yellow",
+        "pistachio",
+        "dull yellow",
+        "dark lime green",
+        "denim blue",
+        "teal blue",
+        "lightish blue",
+        "purpley blue",
+        "light indigo",
+        "swamp green",
+        "brown green",
+        "dark maroon",
+        "hot purple",
+        "dark forest green",
+        "faded blue",
+        "drab green",
+        "light lime green",
+        "snot green",
+        "yellowish",
+        "light blue green",
+        "bordeaux",
+        "light mauve",
+        "ocean",
+        "marigold",
+        "muddy green",
+        "dull orange",
+        "steel",
+        "electric purple",
+        "fluorescent green",
+        "yellowish brown",
+        "blush",
+        "soft green",
+        "bright orange",
+        "lemon",
+        "purple grey",
+        "acid green",
+        "pale lavender",
+        "violet blue",
+        "light forest green",
+        "burnt red",
+        "khaki green",
+        "cerise",
+        "faded purple",
+        "apricot",
+        "dark olive green",
+        "grey brown",
+        "green grey",
+        "true blue",
+        "pale violet",
+        "periwinkle blue",
+        "light sky blue",
+        "blurple",
+        "green brown",
+        "bluegreen",
+        "bright teal",
+        "brownish yellow",
+        "pea soup",
+        "forest",
+        "barney purple",
+        "ultramarine",
+        "purplish",
+        "puke yellow",
+        "bluish grey",
+        "dark periwinkle",
+        "dark lilac",
+        "reddish",
+        "light maroon",
+        "dusty purple",
+        "terra cotta",
+        "avocado",
+        "marine blue",
+        "teal green",
+        "slate grey",
+        "lighter green",
+        "electric green",
+        "dusty blue",
+        "golden yellow",
+        "bright yellow",
+        "light lavender",
+        "umber",
+        "poop",
+        "dark peach",
+        "jungle green",
+        "eggshell",
+        "denim",
+        "yellow brown",
+        "dull purple",
+        "chocolate brown",
+        "wine red",
+        "neon blue",
+        "dirty green",
+        "light tan",
+        "ice blue",
+        "cadet blue",
+        "dark mauve",
+        "very light blue",
+        "grey purple",
+        "pastel pink",
+        "very light green",
+        "dark sky blue",
+        "evergreen",
+        "dull pink",
+        "aubergine",
+        "mahogany",
+        "reddish orange",
+        "deep green",
+        "vomit green",
+        "purple pink",
+        "dusty pink",
+        "faded green",
+        "camo green",
+        "pinky purple",
+        "pink purple",
+        "brownish red",
+        "dark rose",
+        "mud",
+        "brownish",
+        "emerald green",
+        "pale brown",
+        "dull blue",
+        "burnt umber",
+        "medium green",
+        "clay",
+        "light aqua",
+        "light olive green",
+        "brownish orange",
+        "dark aqua",
+        "purplish pink",
+        "dark salmon",
+        "greenish grey",
+        "jade",
+        "ugly green",
+        "dark beige",
+        "emerald",
+        "pale red",
+        "light magenta",
+        "sky",
+        "light cyan",
+        "yellow orange",
+        "reddish purple",
+        "reddish pink",
+        "orchid",
+        "dirty yellow",
+        "orange red",
+        "deep red",
+        "orange brown",
+        "cobalt blue",
+        "neon pink",
+        "rose pink",
+        "greyish purple",
+        "raspberry",
+        "aqua green",
+        "salmon pink",
+        "tangerine",
+        "brownish green",
+        "red brown",
+        "greenish brown",
+        "pumpkin",
+        "pine green",
+        "charcoal",
+        "baby pink",
+        "cornflower",
+        "blue violet",
+        "chocolate",
+        "greyish green",
+        "scarlet",
+        "green yellow",
+        "dark olive",
+        "sienna",
+        "pastel purple",
+        "terracotta",
+        "aqua blue",
+        "sage green",
+        "blood red",
+        "deep pink",
+        "grass",
+        "moss",
+        "pastel blue",
+        "bluish green",
+        "green blue",
+        "dark tan",
+        "greenish blue",
+        "pale orange",
+        "vomit",
+        "forrest green",
+        "dark lavender",
+        "dark violet",
+        "purple blue",
+        "dark cyan",
+        "olive drab",
+        "pinkish",
+        "cobalt",
+        "neon purple",
+        "light turquoise",
+        "apple green",
+        "dull green",
+        "wine",
+        "powder blue",
+        "off white",
+        "electric blue",
+        "dark turquoise",
+        "blue purple",
+        "azure",
+        "bright red",
+        "pinkish red",
+        "cornflower blue",
+        "light olive",
+        "grape",
+        "greyish blue",
+        "purplish blue",
+        "yellowish green",
+        "greenish yellow",
+        "medium blue",
+        "dusty rose",
+        "light violet",
+        "midnight blue",
+        "bluish purple",
+        "red orange",
+        "dark magenta",
+        "greenish",
+        "ocean blue",
+        "coral",
+        "cream",
+        "reddish brown",
+        "burnt sienna",
+        "brick",
+        "sage",
+        "grey green",
+        "white",
+        "robin's egg blue",
+        "moss green",
+        "steel blue",
+        "eggplant",
+        "light yellow",
+        "leaf green",
+        "light grey",
+        "puke",
+        "pinkish purple",
+        "sea blue",
+        "pale purple",
+        "slate blue",
+        "blue grey",
+        "hunter green",
+        "fuchsia",
+        "crimson",
+        "pale yellow",
+        "ochre",
+        "mustard yellow",
+        "light red",
+        "cerulean",
+        "pale pink",
+        "deep blue",
+        "rust",
+        "light teal",
+        "slate",
+        "goldenrod",
+        "dark yellow",
+        "dark grey",
+        "army green",
+        "grey blue",
+        "seafoam",
+        "puce",
+        "spring green",
+        "dark orange",
+        "sand",
+        "pastel green",
+        "mint",
+        "light orange",
+        "bright pink",
+        "chartreuse",
+        "deep purple",
+        "dark brown",
+        "taupe",
+        "pea green",
+        "puke green",
+        "kelly green",
+        "seafoam green",
+        "blue green",
+        "khaki",
+        "burgundy",
+        "dark teal",
+        "brick red",
+        "royal purple",
+        "plum",
+        "mint green",
+        "gold",
+        "baby blue",
+        "yellow green",
+        "bright purple",
+        "dark red",
+        "pale blue",
+        "grass green",
+        "navy",
+        "aquamarine",
+        "burnt orange",
+        "neon green",
+        "bright blue",
+        "rose",
+        "light pink",
+        "mustard",
+        "indigo",
+        "lime",
+        "sea green",
+        "periwinkle",
+        "dark pink",
+        "olive green",
+        "peach",
+        "pale green",
+        "light brown",
+        "hot pink",
+        "black",
+        "lilac",
+        "navy blue",
+        "royal blue",
+        "beige",
+        "salmon",
+        "olive",
+        "maroon",
+        "bright green",
+        "dark purple",
+        "mauve",
+        "forest green",
+        "aqua",
+        "cyan",
+        "tan",
+        "dark blue",
+        "lavender",
+        "turquoise",
+        "dark green",
+        "violet",
+        "light purple",
+        "lime green",
+        "grey",
+        "sky blue",
+        "yellow",
+        "magenta",
+        "light green",
+        "orange",
+        "teal",
+        "light blue",
+        "red",
+        "brown",
+        "pink",
+        "blue",
+        "green",
+        "purple"
+    ],
+    "hexs": [
+        "#acc2d9",
+        "#56ae57",
+        "#b2996e",
+        "#a8ff04",
+        "#69d84f",
+        "#894585",
+        "#70b23f",
+        "#d4ffff",
+        "#65ab7c",
+        "#952e8f",
+        "#fcfc81",
+        "#a5a391",
+        "#388004",
+        "#4c9085",
+        "#5e9b8a",
+        "#efb435",
+        "#d99b82",
+        "#0a5f38",
+        "#0c06f7",
+        "#61de2a",
+        "#3778bf",
+        "#2242c7",
+        "#533cc6",
+        "#9bb53c",
+        "#05ffa6",
+        "#1f6357",
+        "#017374",
+        "#0cb577",
+        "#ff0789",
+        "#afa88b",
+        "#08787f",
+        "#dd85d7",
+        "#a6c875",
+        "#a7ffb5",
+        "#c2b709",
+        "#e78ea5",
+        "#966ebd",
+        "#ccad60",
+        "#ac86a8",
+        "#947e94",
+        "#983fb2",
+        "#ff63e9",
+        "#b2fba5",
+        "#63b365",
+        "#8ee53f",
+        "#b7e1a1",
+        "#ff6f52",
+        "#bdf8a3",
+        "#d3b683",
+        "#fffcc4",
+        "#430541",
+        "#ffb2d0",
+        "#997570",
+        "#ad900d",
+        "#c48efd",
+        "#507b9c",
+        "#7d7103",
+        "#fffd78",
+        "#da467d",
+        "#410200",
+        "#c9d179",
+        "#fffa86",
+        "#5684ae",
+        "#6b7c85",
+        "#6f6c0a",
+        "#7e4071",
+        "#009337",
+        "#d0e429",
+        "#fff917",
+        "#1d5dec",
+        "#054907",
+        "#b5ce08",
+        "#8fb67b",
+        "#c8ffb0",
+        "#fdde6c",
+        "#ffdf22",
+        "#a9be70",
+        "#6832e3",
+        "#fdb147",
+        "#c7ac7d",
+        "#fff39a",
+        "#850e04",
+        "#efc0fe",
+        "#40fd14",
+        "#b6c406",
+        "#9dff00",
+        "#3c4142",
+        "#f2ab15",
+        "#ac4f06",
+        "#c4fe82",
+        "#2cfa1f",
+        "#9a6200",
+        "#ca9bf7",
+        "#875f42",
+        "#3a2efe",
+        "#fd8d49",
+        "#8b3103",
+        "#cba560",
+        "#698339",
+        "#0cdc73",
+        "#b75203",
+        "#7f8f4e",
+        "#26538d",
+        "#63a950",
+        "#c87f89",
+        "#b1fc99",
+        "#ff9a8a",
+        "#f6688e",
+        "#76fda8",
+        "#53fe5c",
+        "#4efd54",
+        "#a0febf",
+        "#7bf2da",
+        "#bcf5a6",
+        "#ca6b02",
+        "#107ab0",
+        "#2138ab",
+        "#719f91",
+        "#fdb915",
+        "#fefcaf",
+        "#fcf679",
+        "#1d0200",
+        "#cb6843",
+        "#31668a",
+        "#247afd",
+        "#ffffb6",
+        "#90fda9",
+        "#86a17d",
+        "#fddc5c",
+        "#78d1b6",
+        "#13bbaf",
+        "#fb5ffc",
+        "#20f986",
+        "#ffe36e",
+        "#9d0759",
+        "#3a18b1",
+        "#c2ff89",
+        "#d767ad",
+        "#720058",
+        "#ffda03",
+        "#01c08d",
+        "#ac7434",
+        "#014600",
+        "#9900fa",
+        "#02066f",
+        "#8e7618",
+        "#d1768f",
+        "#96b403",
+        "#fdff63",
+        "#95a3a6",
+        "#7f684e",
+        "#751973",
+        "#089404",
+        "#ff6163",
+        "#598556",
+        "#214761",
+        "#3c73a8",
+        "#ba9e88",
+        "#021bf9",
+        "#734a65",
+        "#23c48b",
+        "#8fae22",
+        "#e6f2a2",
+        "#4b57db",
+        "#d90166",
+        "#015482",
+        "#9d0216",
+        "#728f02",
+        "#ffe5ad",
+        "#4e0550",
+        "#f9bc08",
+        "#ff073a",
+        "#c77986",
+        "#d6fffe",
+        "#fe4b03",
+        "#fd5956",
+        "#fce166",
+        "#b2713d",
+        "#1f3b4d",
+        "#699d4c",
+        "#56fca2",
+        "#fb5581",
+        "#3e82fc",
+        "#a0bf16",
+        "#d6fffa",
+        "#4f738e",
+        "#ffb19a",
+        "#5c8b15",
+        "#54ac68",
+        "#89a0b0",
+        "#7ea07a",
+        "#1bfc06",
+        "#cafffb",
+        "#b6ffbb",
+        "#a75e09",
+        "#152eff",
+        "#8d5eb7",
+        "#5f9e8f",
+        "#63f7b4",
+        "#606602",
+        "#fc86aa",
+        "#8c0034",
+        "#758000",
+        "#ab7e4c",
+        "#030764",
+        "#fe86a4",
+        "#d5174e",
+        "#fed0fc",
+        "#680018",
+        "#fedf08",
+        "#fe420f",
+        "#6f7c00",
+        "#ca0147",
+        "#1b2431",
+        "#00fbb0",
+        "#db5856",
+        "#ddd618",
+        "#41fdfe",
+        "#cf524e",
+        "#21c36f",
+        "#a90308",
+        "#6e1005",
+        "#fe828c",
+        "#4b6113",
+        "#4da409",
+        "#beae8a",
+        "#0339f8",
+        "#a88f59",
+        "#5d21d0",
+        "#feb209",
+        "#4e518b",
+        "#964e02",
+        "#85a3b2",
+        "#ff69af",
+        "#c3fbf4",
+        "#2afeb7",
+        "#005f6a",
+        "#0c1793",
+        "#ffff81",
+        "#f0833a",
+        "#f1f33f",
+        "#b1d27b",
+        "#fc824a",
+        "#71aa34",
+        "#b7c9e2",
+        "#4b0101",
+        "#a552e6",
+        "#af2f0d",
+        "#8b88f8",
+        "#9af764",
+        "#a6fbb2",
+        "#ffc512",
+        "#750851",
+        "#c14a09",
+        "#fe2f4a",
+        "#0203e2",
+        "#0a437a",
+        "#a50055",
+        "#ae8b0c",
+        "#fd798f",
+        "#bfac05",
+        "#3eaf76",
+        "#c74767",
+        "#b9484e",
+        "#647d8e",
+        "#bffe28",
+        "#d725de",
+        "#b29705",
+        "#673a3f",
+        "#a87dc2",
+        "#fafe4b",
+        "#c0022f",
+        "#0e87cc",
+        "#8d8468",
+        "#ad03de",
+        "#8cff9e",
+        "#94ac02",
+        "#c4fff7",
+        "#fdee73",
+        "#33b864",
+        "#fff9d0",
+        "#758da3",
+        "#f504c9",
+        "#77a1b5",
+        "#8756e4",
+        "#889717",
+        "#c27e79",
+        "#017371",
+        "#9f8303",
+        "#f7d560",
+        "#bdf6fe",
+        "#75b84f",
+        "#9cbb04",
+        "#29465b",
+        "#696006",
+        "#adf802",
+        "#c1c6fc",
+        "#35ad6b",
+        "#fffd37",
+        "#a442a0",
+        "#f36196",
+        "#947706",
+        "#fff4f2",
+        "#1e9167",
+        "#b5c306",
+        "#feff7f",
+        "#cffdbc",
+        "#0add08",
+        "#87fd05",
+        "#1ef876",
+        "#7bfdc7",
+        "#bcecac",
+        "#bbf90f",
+        "#ab9004",
+        "#1fb57a",
+        "#00555a",
+        "#a484ac",
+        "#c45508",
+        "#3f829d",
+        "#548d44",
+        "#c95efb",
+        "#3ae57f",
+        "#016795",
+        "#87a922",
+        "#f0944d",
+        "#5d1451",
+        "#25ff29",
+        "#d0fe1d",
+        "#ffa62b",
+        "#01b44c",
+        "#ff6cb5",
+        "#6b4247",
+        "#c7c10c",
+        "#b7fffa",
+        "#aeff6e",
+        "#ec2d01",
+        "#76ff7b",
+        "#730039",
+        "#040348",
+        "#df4ec8",
+        "#6ecb3c",
+        "#8f9805",
+        "#5edc1f",
+        "#d94ff5",
+        "#c8fd3d",
+        "#070d0d",
+        "#4984b8",
+        "#51b73b",
+        "#ac7e04",
+        "#4e5481",
+        "#876e4b",
+        "#58bc08",
+        "#2fef10",
+        "#2dfe54",
+        "#0aff02",
+        "#9cef43",
+        "#18d17b",
+        "#35530a",
+        "#1805db",
+        "#6258c4",
+        "#ff964f",
+        "#ffab0f",
+        "#8f8ce7",
+        "#24bca8",
+        "#3f012c",
+        "#cbf85f",
+        "#ff724c",
+        "#280137",
+        "#b36ff6",
+        "#48c072",
+        "#bccb7a",
+        "#a8415b",
+        "#06b1c4",
+        "#cd7584",
+        "#f1da7a",
+        "#ff0490",
+        "#805b87",
+        "#50a747",
+        "#a8a495",
+        "#cfff04",
+        "#ffff7e",
+        "#ff7fa7",
+        "#ef4026",
+        "#3c9992",
+        "#886806",
+        "#04f489",
+        "#fef69e",
+        "#cfaf7b",
+        "#3b719f",
+        "#fdc1c5",
+        "#20c073",
+        "#9b5fc0",
+        "#0f9b8e",
+        "#742802",
+        "#9db92c",
+        "#a4bf20",
+        "#cd5909",
+        "#ada587",
+        "#be013c",
+        "#b8ffeb",
+        "#dc4d01",
+        "#a2653e",
+        "#638b27",
+        "#419c03",
+        "#b1ff65",
+        "#9dbcd4",
+        "#fdfdfe",
+        "#77ab56",
+        "#464196",
+        "#990147",
+        "#befd73",
+        "#32bf84",
+        "#af6f09",
+        "#a0025c",
+        "#ffd8b1",
+        "#7f4e1e",
+        "#bf9b0c",
+        "#6ba353",
+        "#f075e6",
+        "#7bc8f6",
+        "#475f94",
+        "#f5bf03",
+        "#fffeb6",
+        "#fffd74",
+        "#895b7b",
+        "#436bad",
+        "#d0c101",
+        "#c6f808",
+        "#f43605",
+        "#02c14d",
+        "#b25f03",
+        "#2a7e19",
+        "#490648",
+        "#536267",
+        "#5a06ef",
+        "#cf0234",
+        "#c4a661",
+        "#978a84",
+        "#1f0954",
+        "#03012d",
+        "#2bb179",
+        "#c3909b",
+        "#a66fb5",
+        "#770001",
+        "#922b05",
+        "#7d7f7c",
+        "#990f4b",
+        "#8f7303",
+        "#c83cb9",
+        "#fea993",
+        "#acbb0d",
+        "#c071fe",
+        "#ccfd7f",
+        "#00022e",
+        "#828344",
+        "#ffc5cb",
+        "#ab1239",
+        "#b0054b",
+        "#99cc04",
+        "#937c00",
+        "#019529",
+        "#ef1de7",
+        "#000435",
+        "#42b395",
+        "#9d5783",
+        "#c8aca9",
+        "#c87606",
+        "#aa2704",
+        "#e4cbff",
+        "#fa4224",
+        "#0804f9",
+        "#5cb200",
+        "#76424e",
+        "#6c7a0e",
+        "#fbdd7e",
+        "#2a0134",
+        "#044a05",
+        "#fd4659",
+        "#0d75f8",
+        "#fe0002",
+        "#cb9d06",
+        "#fb7d07",
+        "#b9cc81",
+        "#edc8ff",
+        "#61e160",
+        "#8ab8fe",
+        "#920a4e",
+        "#fe02a2",
+        "#9a3001",
+        "#65fe08",
+        "#befdb7",
+        "#b17261",
+        "#885f01",
+        "#02ccfe",
+        "#c1fd95",
+        "#836539",
+        "#fb2943",
+        "#84b701",
+        "#b66325",
+        "#7f5112",
+        "#5fa052",
+        "#6dedfd",
+        "#0bf9ea",
+        "#c760ff",
+        "#ffffcb",
+        "#f6cefc",
+        "#155084",
+        "#f5054f",
+        "#645403",
+        "#7a5901",
+        "#a8b504",
+        "#3d9973",
+        "#000133",
+        "#76a973",
+        "#2e5a88",
+        "#0bf77d",
+        "#bd6c48",
+        "#ac1db8",
+        "#2baf6a",
+        "#26f7fd",
+        "#aefd6c",
+        "#9b8f55",
+        "#ffad01",
+        "#c69c04",
+        "#f4d054",
+        "#de9dac",
+        "#05480d",
+        "#c9ae74",
+        "#60460f",
+        "#98f6b0",
+        "#8af1fe",
+        "#2ee8bb",
+        "#11875d",
+        "#fdb0c0",
+        "#b16002",
+        "#f7022a",
+        "#d5ab09",
+        "#86775f",
+        "#c69f59",
+        "#7a687f",
+        "#042e60",
+        "#c88d94",
+        "#a5fbd5",
+        "#fffe71",
+        "#6241c7",
+        "#fffe40",
+        "#d3494e",
+        "#985e2b",
+        "#a6814c",
+        "#ff08e8",
+        "#9d7651",
+        "#feffca",
+        "#98568d",
+        "#9e003a",
+        "#287c37",
+        "#b96902",
+        "#ba6873",
+        "#ff7855",
+        "#94b21c",
+        "#c5c9c7",
+        "#661aee",
+        "#6140ef",
+        "#9be5aa",
+        "#7b5804",
+        "#276ab3",
+        "#feb308",
+        "#8cfd7e",
+        "#6488ea",
+        "#056eee",
+        "#b27a01",
+        "#0ffef9",
+        "#fa2a55",
+        "#820747",
+        "#7a6a4f",
+        "#f4320c",
+        "#a13905",
+        "#6f828a",
+        "#a55af4",
+        "#ad0afd",
+        "#004577",
+        "#658d6d",
+        "#ca7b80",
+        "#005249",
+        "#2b5d34",
+        "#bff128",
+        "#b59410",
+        "#2976bb",
+        "#014182",
+        "#bb3f3f",
+        "#fc2647",
+        "#a87900",
+        "#82cbb2",
+        "#667c3e",
+        "#fe46a5",
+        "#fe83cc",
+        "#94a617",
+        "#a88905",
+        "#7f5f00",
+        "#9e43a2",
+        "#062e03",
+        "#8a6e45",
+        "#cc7a8b",
+        "#9e0168",
+        "#fdff38",
+        "#c0fa8b",
+        "#eedc5b",
+        "#7ebd01",
+        "#3b5b92",
+        "#01889f",
+        "#3d7afd",
+        "#5f34e7",
+        "#6d5acf",
+        "#748500",
+        "#706c11",
+        "#3c0008",
+        "#cb00f5",
+        "#002d04",
+        "#658cbb",
+        "#749551",
+        "#b9ff66",
+        "#9dc100",
+        "#faee66",
+        "#7efbb3",
+        "#7b002c",
+        "#c292a1",
+        "#017b92",
+        "#fcc006",
+        "#657432",
+        "#d8863b",
+        "#738595",
+        "#aa23ff",
+        "#08ff08",
+        "#9b7a01",
+        "#f29e8e",
+        "#6fc276",
+        "#ff5b00",
+        "#fdff52",
+        "#866f85",
+        "#8ffe09",
+        "#eecffe",
+        "#510ac9",
+        "#4f9153",
+        "#9f2305",
+        "#728639",
+        "#de0c62",
+        "#916e99",
+        "#ffb16d",
+        "#3c4d03",
+        "#7f7053",
+        "#77926f",
+        "#010fcc",
+        "#ceaefa",
+        "#8f99fb",
+        "#c6fcff",
+        "#5539cc",
+        "#544e03",
+        "#017a79",
+        "#01f9c6",
+        "#c9b003",
+        "#929901",
+        "#0b5509",
+        "#a00498",
+        "#2000b1",
+        "#94568c",
+        "#c2be0e",
+        "#748b97",
+        "#665fd1",
+        "#9c6da5",
+        "#c44240",
+        "#a24857",
+        "#825f87",
+        "#c9643b",
+        "#90b134",
+        "#01386a",
+        "#25a36f",
+        "#59656d",
+        "#75fd63",
+        "#21fc0d",
+        "#5a86ad",
+        "#fec615",
+        "#fffd01",
+        "#dfc5fe",
+        "#b26400",
+        "#7f5e00",
+        "#de7e5d",
+        "#048243",
+        "#ffffd4",
+        "#3b638c",
+        "#b79400",
+        "#84597e",
+        "#411900",
+        "#7b0323",
+        "#04d9ff",
+        "#667e2c",
+        "#fbeeac",
+        "#d7fffe",
+        "#4e7496",
+        "#874c62",
+        "#d5ffff",
+        "#826d8c",
+        "#ffbacd",
+        "#d1ffbd",
+        "#448ee4",
+        "#05472a",
+        "#d5869d",
+        "#3d0734",
+        "#4a0100",
+        "#f8481c",
+        "#02590f",
+        "#89a203",
+        "#e03fd8",
+        "#d58a94",
+        "#7bb274",
+        "#526525",
+        "#c94cbe",
+        "#db4bda",
+        "#9e3623",
+        "#b5485d",
+        "#735c12",
+        "#9c6d57",
+        "#028f1e",
+        "#b1916e",
+        "#49759c",
+        "#a0450e",
+        "#39ad48",
+        "#b66a50",
+        "#8cffdb",
+        "#a4be5c",
+        "#cb7723",
+        "#05696b",
+        "#ce5dae",
+        "#c85a53",
+        "#96ae8d",
+        "#1fa774",
+        "#7a9703",
+        "#ac9362",
+        "#01a049",
+        "#d9544d",
+        "#fa5ff7",
+        "#82cafc",
+        "#acfffc",
+        "#fcb001",
+        "#910951",
+        "#fe2c54",
+        "#c875c4",
+        "#cdc50a",
+        "#fd411e",
+        "#9a0200",
+        "#be6400",
+        "#030aa7",
+        "#fe019a",
+        "#f7879a",
+        "#887191",
+        "#b00149",
+        "#12e193",
+        "#fe7b7c",
+        "#ff9408",
+        "#6a6e09",
+        "#8b2e16",
+        "#696112",
+        "#e17701",
+        "#0a481e",
+        "#343837",
+        "#ffb7ce",
+        "#6a79f7",
+        "#5d06e9",
+        "#3d1c02",
+        "#82a67d",
+        "#be0119",
+        "#c9ff27",
+        "#373e02",
+        "#a9561e",
+        "#caa0ff",
+        "#ca6641",
+        "#02d8e9",
+        "#88b378",
+        "#980002",
+        "#cb0162",
+        "#5cac2d",
+        "#769958",
+        "#a2bffe",
+        "#10a674",
+        "#06b48b",
+        "#af884a",
+        "#0b8b87",
+        "#ffa756",
+        "#a2a415",
+        "#154406",
+        "#856798",
+        "#34013f",
+        "#632de9",
+        "#0a888a",
+        "#6f7632",
+        "#d46a7e",
+        "#1e488f",
+        "#bc13fe",
+        "#7ef4cc",
+        "#76cd26",
+        "#74a662",
+        "#80013f",
+        "#b1d1fc",
+        "#ffffe4",
+        "#0652ff",
+        "#045c5a",
+        "#5729ce",
+        "#069af3",
+        "#ff000d\n",
+        "#f10c45",
+        "#5170d7",
+        "#acbf69",
+        "#6c3461",
+        "#5e819d",
+        "#601ef9",
+        "#b0dd16",
+        "#cdfd02",
+        "#2c6fbb",
+        "#c0737a",
+        "#d6b4fc",
+        "#020035",
+        "#703be7",
+        "#fd3c06",
+        "#960056",
+        "#40a368",
+        "#03719c",
+        "#fc5a50",
+        "#ffffc2",
+        "#7f2b0a",
+        "#b04e0f",
+        "#a03623",
+        "#87ae73",
+        "#789b73",
+        "#ffffff",
+        "#98eff9",
+        "#658b38",
+        "#5a7d9a",
+        "#380835",
+        "#fffe7a",
+        "#5ca904",
+        "#d8dcd6",
+        "#a5a502",
+        "#d648d7",
+        "#047495",
+        "#b790d4",
+        "#5b7c99",
+        "#607c8e",
+        "#0b4008",
+        "#ed0dd9",
+        "#8c000f",
+        "#ffff84",
+        "#bf9005",
+        "#d2bd0a",
+        "#ff474c",
+        "#0485d1",
+        "#ffcfdc",
+        "#040273",
+        "#a83c09",
+        "#90e4c1",
+        "#516572",
+        "#fac205",
+        "#d5b60a",
+        "#363737",
+        "#4b5d16",
+        "#6b8ba4",
+        "#80f9ad",
+        "#a57e52",
+        "#a9f971",
+        "#c65102",
+        "#e2ca76",
+        "#b0ff9d",
+        "#9ffeb0",
+        "#fdaa48",
+        "#fe01b1",
+        "#c1f80a",
+        "#36013f",
+        "#341c02",
+        "#b9a281",
+        "#8eab12",
+        "#9aae07",
+        "#02ab2e",
+        "#7af9ab",
+        "#137e6d",
+        "#aaa662",
+        "#610023",
+        "#014d4e",
+        "#8f1402",
+        "#4b006e",
+        "#580f41",
+        "#8fff9f",
+        "#dbb40c",
+        "#a2cffe",
+        "#c0fb2d",
+        "#be03fd",
+        "#840000",
+        "#d0fefe",
+        "#3f9b0b",
+        "#01153e",
+        "#04d8b2",
+        "#c04e01",
+        "#0cff0c",
+        "#0165fc",
+        "#cf6275",
+        "#ffd1df",
+        "#ceb301",
+        "#380282",
+        "#aaff32",
+        "#53fca1",
+        "#8e82fe",
+        "#cb416b",
+        "#677a04",
+        "#ffb07c",
+        "#c7fdb5",
+        "#ad8150",
+        "#ff028d",
+        "#000000",
+        "#cea2fd",
+        "#001146",
+        "#0504aa",
+        "#e6daa6",
+        "#ff796c",
+        "#6e750e",
+        "#650021",
+        "#01ff07",
+        "#35063e",
+        "#ae7181",
+        "#06470c",
+        "#13eac9",
+        "#00ffff",
+        "#d1b26f",
+        "#00035b",
+        "#c79fef",
+        "#06c2ac",
+        "#033500",
+        "#9a0eea",
+        "#bf77f6",
+        "#89fe05",
+        "#929591",
+        "#75bbfd",
+        "#ffff14",
+        "#c20078",
+        "#96f97b",
+        "#f97306",
+        "#029386",
+        "#95d0fc",
+        "#e50000",
+        "#653700",
+        "#ff81c0",
+        "#0343df",
+        "#15b01a",
+        "#7e1e9c"
+    ],
+    "rgbs": [
+        [
+            172,
+            194,
+            217
+        ],
+        [
+            86,
+            174,
+            87
+        ],
+        [
+            178,
+            153,
+            110
+        ],
+        [
+            168,
+            255,
+            4
+        ],
+        [
+            105,
+            216,
+            79
+        ],
+        [
+            137,
+            69,
+            133
+        ],
+        [
+            112,
+            178,
+            63
+        ],
+        [
+            212,
+            255,
+            255
+        ],
+        [
+            101,
+            171,
+            124
+        ],
+        [
+            149,
+            46,
+            143
+        ],
+        [
+            252,
+            252,
+            129
+        ],
+        [
+            165,
+            163,
+            145
+        ],
+        [
+            56,
+            128,
+            4
+        ],
+        [
+            76,
+            144,
+            133
+        ],
+        [
+            94,
+            155,
+            138
+        ],
+        [
+            239,
+            180,
+            53
+        ],
+        [
+            217,
+            155,
+            130
+        ],
+        [
+            10,
+            95,
+            56
+        ],
+        [
+            12,
+            6,
+            247
+        ],
+        [
+            97,
+            222,
+            42
+        ],
+        [
+            55,
+            120,
+            191
+        ],
+        [
+            34,
+            66,
+            199
+        ],
+        [
+            83,
+            60,
+            198
+        ],
+        [
+            155,
+            181,
+            60
+        ],
+        [
+            5,
+            255,
+            166
+        ],
+        [
+            31,
+            99,
+            87
+        ],
+        [
+            1,
+            115,
+            116
+        ],
+        [
+            12,
+            181,
+            119
+        ],
+        [
+            255,
+            7,
+            137
+        ],
+        [
+            175,
+            168,
+            139
+        ],
+        [
+            8,
+            120,
+            127
+        ],
+        [
+            221,
+            133,
+            215
+        ],
+        [
+            166,
+            200,
+            117
+        ],
+        [
+            167,
+            255,
+            181
+        ],
+        [
+            194,
+            183,
+            9
+        ],
+        [
+            231,
+            142,
+            165
+        ],
+        [
+            150,
+            110,
+            189
+        ],
+        [
+            204,
+            173,
+            96
+        ],
+        [
+            172,
+            134,
+            168
+        ],
+        [
+            148,
+            126,
+            148
+        ],
+        [
+            152,
+            63,
+            178
+        ],
+        [
+            255,
+            99,
+            233
+        ],
+        [
+            178,
+            251,
+            165
+        ],
+        [
+            99,
+            179,
+            101
+        ],
+        [
+            142,
+            229,
+            63
+        ],
+        [
+            183,
+            225,
+            161
+        ],
+        [
+            255,
+            111,
+            82
+        ],
+        [
+            189,
+            248,
+            163
+        ],
+        [
+            211,
+            182,
+            131
+        ],
+        [
+            255,
+            252,
+            196
+        ],
+        [
+            67,
+            5,
+            65
+        ],
+        [
+            255,
+            178,
+            208
+        ],
+        [
+            153,
+            117,
+            112
+        ],
+        [
+            173,
+            144,
+            13
+        ],
+        [
+            196,
+            142,
+            253
+        ],
+        [
+            80,
+            123,
+            156
+        ],
+        [
+            125,
+            113,
+            3
+        ],
+        [
+            255,
+            253,
+            120
+        ],
+        [
+            218,
+            70,
+            125
+        ],
+        [
+            65,
+            2,
+            0
+        ],
+        [
+            201,
+            209,
+            121
+        ],
+        [
+            255,
+            250,
+            134
+        ],
+        [
+            86,
+            132,
+            174
+        ],
+        [
+            107,
+            124,
+            133
+        ],
+        [
+            111,
+            108,
+            10
+        ],
+        [
+            126,
+            64,
+            113
+        ],
+        [
+            0,
+            147,
+            55
+        ],
+        [
+            208,
+            228,
+            41
+        ],
+        [
+            255,
+            249,
+            23
+        ],
+        [
+            29,
+            93,
+            236
+        ],
+        [
+            5,
+            73,
+            7
+        ],
+        [
+            181,
+            206,
+            8
+        ],
+        [
+            143,
+            182,
+            123
+        ],
+        [
+            200,
+            255,
+            176
+        ],
+        [
+            253,
+            222,
+            108
+        ],
+        [
+            255,
+            223,
+            34
+        ],
+        [
+            169,
+            190,
+            112
+        ],
+        [
+            104,
+            50,
+            227
+        ],
+        [
+            253,
+            177,
+            71
+        ],
+        [
+            199,
+            172,
+            125
+        ],
+        [
+            255,
+            243,
+            154
+        ],
+        [
+            133,
+            14,
+            4
+        ],
+        [
+            239,
+            192,
+            254
+        ],
+        [
+            64,
+            253,
+            20
+        ],
+        [
+            182,
+            196,
+            6
+        ],
+        [
+            157,
+            255,
+            0
+        ],
+        [
+            60,
+            65,
+            66
+        ],
+        [
+            242,
+            171,
+            21
+        ],
+        [
+            172,
+            79,
+            6
+        ],
+        [
+            196,
+            254,
+            130
+        ],
+        [
+            44,
+            250,
+            31
+        ],
+        [
+            154,
+            98,
+            0
+        ],
+        [
+            202,
+            155,
+            247
+        ],
+        [
+            135,
+            95,
+            66
+        ],
+        [
+            58,
+            46,
+            254
+        ],
+        [
+            253,
+            141,
+            73
+        ],
+        [
+            139,
+            49,
+            3
+        ],
+        [
+            203,
+            165,
+            96
+        ],
+        [
+            105,
+            131,
+            57
+        ],
+        [
+            12,
+            220,
+            115
+        ],
+        [
+            183,
+            82,
+            3
+        ],
+        [
+            127,
+            143,
+            78
+        ],
+        [
+            38,
+            83,
+            141
+        ],
+        [
+            99,
+            169,
+            80
+        ],
+        [
+            200,
+            127,
+            137
+        ],
+        [
+            177,
+            252,
+            153
+        ],
+        [
+            255,
+            154,
+            138
+        ],
+        [
+            246,
+            104,
+            142
+        ],
+        [
+            118,
+            253,
+            168
+        ],
+        [
+            83,
+            254,
+            92
+        ],
+        [
+            78,
+            253,
+            84
+        ],
+        [
+            160,
+            254,
+            191
+        ],
+        [
+            123,
+            242,
+            218
+        ],
+        [
+            188,
+            245,
+            166
+        ],
+        [
+            202,
+            107,
+            2
+        ],
+        [
+            16,
+            122,
+            176
+        ],
+        [
+            33,
+            56,
+            171
+        ],
+        [
+            113,
+            159,
+            145
+        ],
+        [
+            253,
+            185,
+            21
+        ],
+        [
+            254,
+            252,
+            175
+        ],
+        [
+            252,
+            246,
+            121
+        ],
+        [
+            29,
+            2,
+            0
+        ],
+        [
+            203,
+            104,
+            67
+        ],
+        [
+            49,
+            102,
+            138
+        ],
+        [
+            36,
+            122,
+            253
+        ],
+        [
+            255,
+            255,
+            182
+        ],
+        [
+            144,
+            253,
+            169
+        ],
+        [
+            134,
+            161,
+            125
+        ],
+        [
+            253,
+            220,
+            92
+        ],
+        [
+            120,
+            209,
+            182
+        ],
+        [
+            19,
+            187,
+            175
+        ],
+        [
+            251,
+            95,
+            252
+        ],
+        [
+            32,
+            249,
+            134
+        ],
+        [
+            255,
+            227,
+            110
+        ],
+        [
+            157,
+            7,
+            89
+        ],
+        [
+            58,
+            24,
+            177
+        ],
+        [
+            194,
+            255,
+            137
+        ],
+        [
+            215,
+            103,
+            173
+        ],
+        [
+            114,
+            0,
+            88
+        ],
+        [
+            255,
+            218,
+            3
+        ],
+        [
+            1,
+            192,
+            141
+        ],
+        [
+            172,
+            116,
+            52
+        ],
+        [
+            1,
+            70,
+            0
+        ],
+        [
+            153,
+            0,
+            250
+        ],
+        [
+            2,
+            6,
+            111
+        ],
+        [
+            142,
+            118,
+            24
+        ],
+        [
+            209,
+            118,
+            143
+        ],
+        [
+            150,
+            180,
+            3
+        ],
+        [
+            253,
+            255,
+            99
+        ],
+        [
+            149,
+            163,
+            166
+        ],
+        [
+            127,
+            104,
+            78
+        ],
+        [
+            117,
+            25,
+            115
+        ],
+        [
+            8,
+            148,
+            4
+        ],
+        [
+            255,
+            97,
+            99
+        ],
+        [
+            89,
+            133,
+            86
+        ],
+        [
+            33,
+            71,
+            97
+        ],
+        [
+            60,
+            115,
+            168
+        ],
+        [
+            186,
+            158,
+            136
+        ],
+        [
+            2,
+            27,
+            249
+        ],
+        [
+            115,
+            74,
+            101
+        ],
+        [
+            35,
+            196,
+            139
+        ],
+        [
+            143,
+            174,
+            34
+        ],
+        [
+            230,
+            242,
+            162
+        ],
+        [
+            75,
+            87,
+            219
+        ],
+        [
+            217,
+            1,
+            102
+        ],
+        [
+            1,
+            84,
+            130
+        ],
+        [
+            157,
+            2,
+            22
+        ],
+        [
+            114,
+            143,
+            2
+        ],
+        [
+            255,
+            229,
+            173
+        ],
+        [
+            78,
+            5,
+            80
+        ],
+        [
+            249,
+            188,
+            8
+        ],
+        [
+            255,
+            7,
+            58
+        ],
+        [
+            199,
+            121,
+            134
+        ],
+        [
+            214,
+            255,
+            254
+        ],
+        [
+            254,
+            75,
+            3
+        ],
+        [
+            253,
+            89,
+            86
+        ],
+        [
+            252,
+            225,
+            102
+        ],
+        [
+            178,
+            113,
+            61
+        ],
+        [
+            31,
+            59,
+            77
+        ],
+        [
+            105,
+            157,
+            76
+        ],
+        [
+            86,
+            252,
+            162
+        ],
+        [
+            251,
+            85,
+            129
+        ],
+        [
+            62,
+            130,
+            252
+        ],
+        [
+            160,
+            191,
+            22
+        ],
+        [
+            214,
+            255,
+            250
+        ],
+        [
+            79,
+            115,
+            142
+        ],
+        [
+            255,
+            177,
+            154
+        ],
+        [
+            92,
+            139,
+            21
+        ],
+        [
+            84,
+            172,
+            104
+        ],
+        [
+            137,
+            160,
+            176
+        ],
+        [
+            126,
+            160,
+            122
+        ],
+        [
+            27,
+            252,
+            6
+        ],
+        [
+            202,
+            255,
+            251
+        ],
+        [
+            182,
+            255,
+            187
+        ],
+        [
+            167,
+            94,
+            9
+        ],
+        [
+            21,
+            46,
+            255
+        ],
+        [
+            141,
+            94,
+            183
+        ],
+        [
+            95,
+            158,
+            143
+        ],
+        [
+            99,
+            247,
+            180
+        ],
+        [
+            96,
+            102,
+            2
+        ],
+        [
+            252,
+            134,
+            170
+        ],
+        [
+            140,
+            0,
+            52
+        ],
+        [
+            117,
+            128,
+            0
+        ],
+        [
+            171,
+            126,
+            76
+        ],
+        [
+            3,
+            7,
+            100
+        ],
+        [
+            254,
+            134,
+            164
+        ],
+        [
+            213,
+            23,
+            78
+        ],
+        [
+            254,
+            208,
+            252
+        ],
+        [
+            104,
+            0,
+            24
+        ],
+        [
+            254,
+            223,
+            8
+        ],
+        [
+            254,
+            66,
+            15
+        ],
+        [
+            111,
+            124,
+            0
+        ],
+        [
+            202,
+            1,
+            71
+        ],
+        [
+            27,
+            36,
+            49
+        ],
+        [
+            0,
+            251,
+            176
+        ],
+        [
+            219,
+            88,
+            86
+        ],
+        [
+            221,
+            214,
+            24
+        ],
+        [
+            65,
+            253,
+            254
+        ],
+        [
+            207,
+            82,
+            78
+        ],
+        [
+            33,
+            195,
+            111
+        ],
+        [
+            169,
+            3,
+            8
+        ],
+        [
+            110,
+            16,
+            5
+        ],
+        [
+            254,
+            130,
+            140
+        ],
+        [
+            75,
+            97,
+            19
+        ],
+        [
+            77,
+            164,
+            9
+        ],
+        [
+            190,
+            174,
+            138
+        ],
+        [
+            3,
+            57,
+            248
+        ],
+        [
+            168,
+            143,
+            89
+        ],
+        [
+            93,
+            33,
+            208
+        ],
+        [
+            254,
+            178,
+            9
+        ],
+        [
+            78,
+            81,
+            139
+        ],
+        [
+            150,
+            78,
+            2
+        ],
+        [
+            133,
+            163,
+            178
+        ],
+        [
+            255,
+            105,
+            175
+        ],
+        [
+            195,
+            251,
+            244
+        ],
+        [
+            42,
+            254,
+            183
+        ],
+        [
+            0,
+            95,
+            106
+        ],
+        [
+            12,
+            23,
+            147
+        ],
+        [
+            255,
+            255,
+            129
+        ],
+        [
+            240,
+            131,
+            58
+        ],
+        [
+            241,
+            243,
+            63
+        ],
+        [
+            177,
+            210,
+            123
+        ],
+        [
+            252,
+            130,
+            74
+        ],
+        [
+            113,
+            170,
+            52
+        ],
+        [
+            183,
+            201,
+            226
+        ],
+        [
+            75,
+            1,
+            1
+        ],
+        [
+            165,
+            82,
+            230
+        ],
+        [
+            175,
+            47,
+            13
+        ],
+        [
+            139,
+            136,
+            248
+        ],
+        [
+            154,
+            247,
+            100
+        ],
+        [
+            166,
+            251,
+            178
+        ],
+        [
+            255,
+            197,
+            18
+        ],
+        [
+            117,
+            8,
+            81
+        ],
+        [
+            193,
+            74,
+            9
+        ],
+        [
+            254,
+            47,
+            74
+        ],
+        [
+            2,
+            3,
+            226
+        ],
+        [
+            10,
+            67,
+            122
+        ],
+        [
+            165,
+            0,
+            85
+        ],
+        [
+            174,
+            139,
+            12
+        ],
+        [
+            253,
+            121,
+            143
+        ],
+        [
+            191,
+            172,
+            5
+        ],
+        [
+            62,
+            175,
+            118
+        ],
+        [
+            199,
+            71,
+            103
+        ],
+        [
+            185,
+            72,
+            78
+        ],
+        [
+            100,
+            125,
+            142
+        ],
+        [
+            191,
+            254,
+            40
+        ],
+        [
+            215,
+            37,
+            222
+        ],
+        [
+            178,
+            151,
+            5
+        ],
+        [
+            103,
+            58,
+            63
+        ],
+        [
+            168,
+            125,
+            194
+        ],
+        [
+            250,
+            254,
+            75
+        ],
+        [
+            192,
+            2,
+            47
+        ],
+        [
+            14,
+            135,
+            204
+        ],
+        [
+            141,
+            132,
+            104
+        ],
+        [
+            173,
+            3,
+            222
+        ],
+        [
+            140,
+            255,
+            158
+        ],
+        [
+            148,
+            172,
+            2
+        ],
+        [
+            196,
+            255,
+            247
+        ],
+        [
+            253,
+            238,
+            115
+        ],
+        [
+            51,
+            184,
+            100
+        ],
+        [
+            255,
+            249,
+            208
+        ],
+        [
+            117,
+            141,
+            163
+        ],
+        [
+            245,
+            4,
+            201
+        ],
+        [
+            119,
+            161,
+            181
+        ],
+        [
+            135,
+            86,
+            228
+        ],
+        [
+            136,
+            151,
+            23
+        ],
+        [
+            194,
+            126,
+            121
+        ],
+        [
+            1,
+            115,
+            113
+        ],
+        [
+            159,
+            131,
+            3
+        ],
+        [
+            247,
+            213,
+            96
+        ],
+        [
+            189,
+            246,
+            254
+        ],
+        [
+            117,
+            184,
+            79
+        ],
+        [
+            156,
+            187,
+            4
+        ],
+        [
+            41,
+            70,
+            91
+        ],
+        [
+            105,
+            96,
+            6
+        ],
+        [
+            173,
+            248,
+            2
+        ],
+        [
+            193,
+            198,
+            252
+        ],
+        [
+            53,
+            173,
+            107
+        ],
+        [
+            255,
+            253,
+            55
+        ],
+        [
+            164,
+            66,
+            160
+        ],
+        [
+            243,
+            97,
+            150
+        ],
+        [
+            148,
+            119,
+            6
+        ],
+        [
+            255,
+            244,
+            242
+        ],
+        [
+            30,
+            145,
+            103
+        ],
+        [
+            181,
+            195,
+            6
+        ],
+        [
+            254,
+            255,
+            127
+        ],
+        [
+            207,
+            253,
+            188
+        ],
+        [
+            10,
+            221,
+            8
+        ],
+        [
+            135,
+            253,
+            5
+        ],
+        [
+            30,
+            248,
+            118
+        ],
+        [
+            123,
+            253,
+            199
+        ],
+        [
+            188,
+            236,
+            172
+        ],
+        [
+            187,
+            249,
+            15
+        ],
+        [
+            171,
+            144,
+            4
+        ],
+        [
+            31,
+            181,
+            122
+        ],
+        [
+            0,
+            85,
+            90
+        ],
+        [
+            164,
+            132,
+            172
+        ],
+        [
+            196,
+            85,
+            8
+        ],
+        [
+            63,
+            130,
+            157
+        ],
+        [
+            84,
+            141,
+            68
+        ],
+        [
+            201,
+            94,
+            251
+        ],
+        [
+            58,
+            229,
+            127
+        ],
+        [
+            1,
+            103,
+            149
+        ],
+        [
+            135,
+            169,
+            34
+        ],
+        [
+            240,
+            148,
+            77
+        ],
+        [
+            93,
+            20,
+            81
+        ],
+        [
+            37,
+            255,
+            41
+        ],
+        [
+            208,
+            254,
+            29
+        ],
+        [
+            255,
+            166,
+            43
+        ],
+        [
+            1,
+            180,
+            76
+        ],
+        [
+            255,
+            108,
+            181
+        ],
+        [
+            107,
+            66,
+            71
+        ],
+        [
+            199,
+            193,
+            12
+        ],
+        [
+            183,
+            255,
+            250
+        ],
+        [
+            174,
+            255,
+            110
+        ],
+        [
+            236,
+            45,
+            1
+        ],
+        [
+            118,
+            255,
+            123
+        ],
+        [
+            115,
+            0,
+            57
+        ],
+        [
+            4,
+            3,
+            72
+        ],
+        [
+            223,
+            78,
+            200
+        ],
+        [
+            110,
+            203,
+            60
+        ],
+        [
+            143,
+            152,
+            5
+        ],
+        [
+            94,
+            220,
+            31
+        ],
+        [
+            217,
+            79,
+            245
+        ],
+        [
+            200,
+            253,
+            61
+        ],
+        [
+            7,
+            13,
+            13
+        ],
+        [
+            73,
+            132,
+            184
+        ],
+        [
+            81,
+            183,
+            59
+        ],
+        [
+            172,
+            126,
+            4
+        ],
+        [
+            78,
+            84,
+            129
+        ],
+        [
+            135,
+            110,
+            75
+        ],
+        [
+            88,
+            188,
+            8
+        ],
+        [
+            47,
+            239,
+            16
+        ],
+        [
+            45,
+            254,
+            84
+        ],
+        [
+            10,
+            255,
+            2
+        ],
+        [
+            156,
+            239,
+            67
+        ],
+        [
+            24,
+            209,
+            123
+        ],
+        [
+            53,
+            83,
+            10
+        ],
+        [
+            24,
+            5,
+            219
+        ],
+        [
+            98,
+            88,
+            196
+        ],
+        [
+            255,
+            150,
+            79
+        ],
+        [
+            255,
+            171,
+            15
+        ],
+        [
+            143,
+            140,
+            231
+        ],
+        [
+            36,
+            188,
+            168
+        ],
+        [
+            63,
+            1,
+            44
+        ],
+        [
+            203,
+            248,
+            95
+        ],
+        [
+            255,
+            114,
+            76
+        ],
+        [
+            40,
+            1,
+            55
+        ],
+        [
+            179,
+            111,
+            246
+        ],
+        [
+            72,
+            192,
+            114
+        ],
+        [
+            188,
+            203,
+            122
+        ],
+        [
+            168,
+            65,
+            91
+        ],
+        [
+            6,
+            177,
+            196
+        ],
+        [
+            205,
+            117,
+            132
+        ],
+        [
+            241,
+            218,
+            122
+        ],
+        [
+            255,
+            4,
+            144
+        ],
+        [
+            128,
+            91,
+            135
+        ],
+        [
+            80,
+            167,
+            71
+        ],
+        [
+            168,
+            164,
+            149
+        ],
+        [
+            207,
+            255,
+            4
+        ],
+        [
+            255,
+            255,
+            126
+        ],
+        [
+            255,
+            127,
+            167
+        ],
+        [
+            239,
+            64,
+            38
+        ],
+        [
+            60,
+            153,
+            146
+        ],
+        [
+            136,
+            104,
+            6
+        ],
+        [
+            4,
+            244,
+            137
+        ],
+        [
+            254,
+            246,
+            158
+        ],
+        [
+            207,
+            175,
+            123
+        ],
+        [
+            59,
+            113,
+            159
+        ],
+        [
+            253,
+            193,
+            197
+        ],
+        [
+            32,
+            192,
+            115
+        ],
+        [
+            155,
+            95,
+            192
+        ],
+        [
+            15,
+            155,
+            142
+        ],
+        [
+            116,
+            40,
+            2
+        ],
+        [
+            157,
+            185,
+            44
+        ],
+        [
+            164,
+            191,
+            32
+        ],
+        [
+            205,
+            89,
+            9
+        ],
+        [
+            173,
+            165,
+            135
+        ],
+        [
+            190,
+            1,
+            60
+        ],
+        [
+            184,
+            255,
+            235
+        ],
+        [
+            220,
+            77,
+            1
+        ],
+        [
+            162,
+            101,
+            62
+        ],
+        [
+            99,
+            139,
+            39
+        ],
+        [
+            65,
+            156,
+            3
+        ],
+        [
+            177,
+            255,
+            101
+        ],
+        [
+            157,
+            188,
+            212
+        ],
+        [
+            253,
+            253,
+            254
+        ],
+        [
+            119,
+            171,
+            86
+        ],
+        [
+            70,
+            65,
+            150
+        ],
+        [
+            153,
+            1,
+            71
+        ],
+        [
+            190,
+            253,
+            115
+        ],
+        [
+            50,
+            191,
+            132
+        ],
+        [
+            175,
+            111,
+            9
+        ],
+        [
+            160,
+            2,
+            92
+        ],
+        [
+            255,
+            216,
+            177
+        ],
+        [
+            127,
+            78,
+            30
+        ],
+        [
+            191,
+            155,
+            12
+        ],
+        [
+            107,
+            163,
+            83
+        ],
+        [
+            240,
+            117,
+            230
+        ],
+        [
+            123,
+            200,
+            246
+        ],
+        [
+            71,
+            95,
+            148
+        ],
+        [
+            245,
+            191,
+            3
+        ],
+        [
+            255,
+            254,
+            182
+        ],
+        [
+            255,
+            253,
+            116
+        ],
+        [
+            137,
+            91,
+            123
+        ],
+        [
+            67,
+            107,
+            173
+        ],
+        [
+            208,
+            193,
+            1
+        ],
+        [
+            198,
+            248,
+            8
+        ],
+        [
+            244,
+            54,
+            5
+        ],
+        [
+            2,
+            193,
+            77
+        ],
+        [
+            178,
+            95,
+            3
+        ],
+        [
+            42,
+            126,
+            25
+        ],
+        [
+            73,
+            6,
+            72
+        ],
+        [
+            83,
+            98,
+            103
+        ],
+        [
+            90,
+            6,
+            239
+        ],
+        [
+            207,
+            2,
+            52
+        ],
+        [
+            196,
+            166,
+            97
+        ],
+        [
+            151,
+            138,
+            132
+        ],
+        [
+            31,
+            9,
+            84
+        ],
+        [
+            3,
+            1,
+            45
+        ],
+        [
+            43,
+            177,
+            121
+        ],
+        [
+            195,
+            144,
+            155
+        ],
+        [
+            166,
+            111,
+            181
+        ],
+        [
+            119,
+            0,
+            1
+        ],
+        [
+            146,
+            43,
+            5
+        ],
+        [
+            125,
+            127,
+            124
+        ],
+        [
+            153,
+            15,
+            75
+        ],
+        [
+            143,
+            115,
+            3
+        ],
+        [
+            200,
+            60,
+            185
+        ],
+        [
+            254,
+            169,
+            147
+        ],
+        [
+            172,
+            187,
+            13
+        ],
+        [
+            192,
+            113,
+            254
+        ],
+        [
+            204,
+            253,
+            127
+        ],
+        [
+            0,
+            2,
+            46
+        ],
+        [
+            130,
+            131,
+            68
+        ],
+        [
+            255,
+            197,
+            203
+        ],
+        [
+            171,
+            18,
+            57
+        ],
+        [
+            176,
+            5,
+            75
+        ],
+        [
+            153,
+            204,
+            4
+        ],
+        [
+            147,
+            124,
+            0
+        ],
+        [
+            1,
+            149,
+            41
+        ],
+        [
+            239,
+            29,
+            231
+        ],
+        [
+            0,
+            4,
+            53
+        ],
+        [
+            66,
+            179,
+            149
+        ],
+        [
+            157,
+            87,
+            131
+        ],
+        [
+            200,
+            172,
+            169
+        ],
+        [
+            200,
+            118,
+            6
+        ],
+        [
+            170,
+            39,
+            4
+        ],
+        [
+            228,
+            203,
+            255
+        ],
+        [
+            250,
+            66,
+            36
+        ],
+        [
+            8,
+            4,
+            249
+        ],
+        [
+            92,
+            178,
+            0
+        ],
+        [
+            118,
+            66,
+            78
+        ],
+        [
+            108,
+            122,
+            14
+        ],
+        [
+            251,
+            221,
+            126
+        ],
+        [
+            42,
+            1,
+            52
+        ],
+        [
+            4,
+            74,
+            5
+        ],
+        [
+            253,
+            70,
+            89
+        ],
+        [
+            13,
+            117,
+            248
+        ],
+        [
+            254,
+            0,
+            2
+        ],
+        [
+            203,
+            157,
+            6
+        ],
+        [
+            251,
+            125,
+            7
+        ],
+        [
+            185,
+            204,
+            129
+        ],
+        [
+            237,
+            200,
+            255
+        ],
+        [
+            97,
+            225,
+            96
+        ],
+        [
+            138,
+            184,
+            254
+        ],
+        [
+            146,
+            10,
+            78
+        ],
+        [
+            254,
+            2,
+            162
+        ],
+        [
+            154,
+            48,
+            1
+        ],
+        [
+            101,
+            254,
+            8
+        ],
+        [
+            190,
+            253,
+            183
+        ],
+        [
+            177,
+            114,
+            97
+        ],
+        [
+            136,
+            95,
+            1
+        ],
+        [
+            2,
+            204,
+            254
+        ],
+        [
+            193,
+            253,
+            149
+        ],
+        [
+            131,
+            101,
+            57
+        ],
+        [
+            251,
+            41,
+            67
+        ],
+        [
+            132,
+            183,
+            1
+        ],
+        [
+            182,
+            99,
+            37
+        ],
+        [
+            127,
+            81,
+            18
+        ],
+        [
+            95,
+            160,
+            82
+        ],
+        [
+            109,
+            237,
+            253
+        ],
+        [
+            11,
+            249,
+            234
+        ],
+        [
+            199,
+            96,
+            255
+        ],
+        [
+            255,
+            255,
+            203
+        ],
+        [
+            246,
+            206,
+            252
+        ],
+        [
+            21,
+            80,
+            132
+        ],
+        [
+            245,
+            5,
+            79
+        ],
+        [
+            100,
+            84,
+            3
+        ],
+        [
+            122,
+            89,
+            1
+        ],
+        [
+            168,
+            181,
+            4
+        ],
+        [
+            61,
+            153,
+            115
+        ],
+        [
+            0,
+            1,
+            51
+        ],
+        [
+            118,
+            169,
+            115
+        ],
+        [
+            46,
+            90,
+            136
+        ],
+        [
+            11,
+            247,
+            125
+        ],
+        [
+            189,
+            108,
+            72
+        ],
+        [
+            172,
+            29,
+            184
+        ],
+        [
+            43,
+            175,
+            106
+        ],
+        [
+            38,
+            247,
+            253
+        ],
+        [
+            174,
+            253,
+            108
+        ],
+        [
+            155,
+            143,
+            85
+        ],
+        [
+            255,
+            173,
+            1
+        ],
+        [
+            198,
+            156,
+            4
+        ],
+        [
+            244,
+            208,
+            84
+        ],
+        [
+            222,
+            157,
+            172
+        ],
+        [
+            5,
+            72,
+            13
+        ],
+        [
+            201,
+            174,
+            116
+        ],
+        [
+            96,
+            70,
+            15
+        ],
+        [
+            152,
+            246,
+            176
+        ],
+        [
+            138,
+            241,
+            254
+        ],
+        [
+            46,
+            232,
+            187
+        ],
+        [
+            17,
+            135,
+            93
+        ],
+        [
+            253,
+            176,
+            192
+        ],
+        [
+            177,
+            96,
+            2
+        ],
+        [
+            247,
+            2,
+            42
+        ],
+        [
+            213,
+            171,
+            9
+        ],
+        [
+            134,
+            119,
+            95
+        ],
+        [
+            198,
+            159,
+            89
+        ],
+        [
+            122,
+            104,
+            127
+        ],
+        [
+            4,
+            46,
+            96
+        ],
+        [
+            200,
+            141,
+            148
+        ],
+        [
+            165,
+            251,
+            213
+        ],
+        [
+            255,
+            254,
+            113
+        ],
+        [
+            98,
+            65,
+            199
+        ],
+        [
+            255,
+            254,
+            64
+        ],
+        [
+            211,
+            73,
+            78
+        ],
+        [
+            152,
+            94,
+            43
+        ],
+        [
+            166,
+            129,
+            76
+        ],
+        [
+            255,
+            8,
+            232
+        ],
+        [
+            157,
+            118,
+            81
+        ],
+        [
+            254,
+            255,
+            202
+        ],
+        [
+            152,
+            86,
+            141
+        ],
+        [
+            158,
+            0,
+            58
+        ],
+        [
+            40,
+            124,
+            55
+        ],
+        [
+            185,
+            105,
+            2
+        ],
+        [
+            186,
+            104,
+            115
+        ],
+        [
+            255,
+            120,
+            85
+        ],
+        [
+            148,
+            178,
+            28
+        ],
+        [
+            197,
+            201,
+            199
+        ],
+        [
+            102,
+            26,
+            238
+        ],
+        [
+            97,
+            64,
+            239
+        ],
+        [
+            155,
+            229,
+            170
+        ],
+        [
+            123,
+            88,
+            4
+        ],
+        [
+            39,
+            106,
+            179
+        ],
+        [
+            254,
+            179,
+            8
+        ],
+        [
+            140,
+            253,
+            126
+        ],
+        [
+            100,
+            136,
+            234
+        ],
+        [
+            5,
+            110,
+            238
+        ],
+        [
+            178,
+            122,
+            1
+        ],
+        [
+            15,
+            254,
+            249
+        ],
+        [
+            250,
+            42,
+            85
+        ],
+        [
+            130,
+            7,
+            71
+        ],
+        [
+            122,
+            106,
+            79
+        ],
+        [
+            244,
+            50,
+            12
+        ],
+        [
+            161,
+            57,
+            5
+        ],
+        [
+            111,
+            130,
+            138
+        ],
+        [
+            165,
+            90,
+            244
+        ],
+        [
+            173,
+            10,
+            253
+        ],
+        [
+            0,
+            69,
+            119
+        ],
+        [
+            101,
+            141,
+            109
+        ],
+        [
+            202,
+            123,
+            128
+        ],
+        [
+            0,
+            82,
+            73
+        ],
+        [
+            43,
+            93,
+            52
+        ],
+        [
+            191,
+            241,
+            40
+        ],
+        [
+            181,
+            148,
+            16
+        ],
+        [
+            41,
+            118,
+            187
+        ],
+        [
+            1,
+            65,
+            130
+        ],
+        [
+            187,
+            63,
+            63
+        ],
+        [
+            252,
+            38,
+            71
+        ],
+        [
+            168,
+            121,
+            0
+        ],
+        [
+            130,
+            203,
+            178
+        ],
+        [
+            102,
+            124,
+            62
+        ],
+        [
+            254,
+            70,
+            165
+        ],
+        [
+            254,
+            131,
+            204
+        ],
+        [
+            148,
+            166,
+            23
+        ],
+        [
+            168,
+            137,
+            5
+        ],
+        [
+            127,
+            95,
+            0
+        ],
+        [
+            158,
+            67,
+            162
+        ],
+        [
+            6,
+            46,
+            3
+        ],
+        [
+            138,
+            110,
+            69
+        ],
+        [
+            204,
+            122,
+            139
+        ],
+        [
+            158,
+            1,
+            104
+        ],
+        [
+            253,
+            255,
+            56
+        ],
+        [
+            192,
+            250,
+            139
+        ],
+        [
+            238,
+            220,
+            91
+        ],
+        [
+            126,
+            189,
+            1
+        ],
+        [
+            59,
+            91,
+            146
+        ],
+        [
+            1,
+            136,
+            159
+        ],
+        [
+            61,
+            122,
+            253
+        ],
+        [
+            95,
+            52,
+            231
+        ],
+        [
+            109,
+            90,
+            207
+        ],
+        [
+            116,
+            133,
+            0
+        ],
+        [
+            112,
+            108,
+            17
+        ],
+        [
+            60,
+            0,
+            8
+        ],
+        [
+            203,
+            0,
+            245
+        ],
+        [
+            0,
+            45,
+            4
+        ],
+        [
+            101,
+            140,
+            187
+        ],
+        [
+            116,
+            149,
+            81
+        ],
+        [
+            185,
+            255,
+            102
+        ],
+        [
+            157,
+            193,
+            0
+        ],
+        [
+            250,
+            238,
+            102
+        ],
+        [
+            126,
+            251,
+            179
+        ],
+        [
+            123,
+            0,
+            44
+        ],
+        [
+            194,
+            146,
+            161
+        ],
+        [
+            1,
+            123,
+            146
+        ],
+        [
+            252,
+            192,
+            6
+        ],
+        [
+            101,
+            116,
+            50
+        ],
+        [
+            216,
+            134,
+            59
+        ],
+        [
+            115,
+            133,
+            149
+        ],
+        [
+            170,
+            35,
+            255
+        ],
+        [
+            8,
+            255,
+            8
+        ],
+        [
+            155,
+            122,
+            1
+        ],
+        [
+            242,
+            158,
+            142
+        ],
+        [
+            111,
+            194,
+            118
+        ],
+        [
+            255,
+            91,
+            0
+        ],
+        [
+            253,
+            255,
+            82
+        ],
+        [
+            134,
+            111,
+            133
+        ],
+        [
+            143,
+            254,
+            9
+        ],
+        [
+            238,
+            207,
+            254
+        ],
+        [
+            81,
+            10,
+            201
+        ],
+        [
+            79,
+            145,
+            83
+        ],
+        [
+            159,
+            35,
+            5
+        ],
+        [
+            114,
+            134,
+            57
+        ],
+        [
+            222,
+            12,
+            98
+        ],
+        [
+            145,
+            110,
+            153
+        ],
+        [
+            255,
+            177,
+            109
+        ],
+        [
+            60,
+            77,
+            3
+        ],
+        [
+            127,
+            112,
+            83
+        ],
+        [
+            119,
+            146,
+            111
+        ],
+        [
+            1,
+            15,
+            204
+        ],
+        [
+            206,
+            174,
+            250
+        ],
+        [
+            143,
+            153,
+            251
+        ],
+        [
+            198,
+            252,
+            255
+        ],
+        [
+            85,
+            57,
+            204
+        ],
+        [
+            84,
+            78,
+            3
+        ],
+        [
+            1,
+            122,
+            121
+        ],
+        [
+            1,
+            249,
+            198
+        ],
+        [
+            201,
+            176,
+            3
+        ],
+        [
+            146,
+            153,
+            1
+        ],
+        [
+            11,
+            85,
+            9
+        ],
+        [
+            160,
+            4,
+            152
+        ],
+        [
+            32,
+            0,
+            177
+        ],
+        [
+            148,
+            86,
+            140
+        ],
+        [
+            194,
+            190,
+            14
+        ],
+        [
+            116,
+            139,
+            151
+        ],
+        [
+            102,
+            95,
+            209
+        ],
+        [
+            156,
+            109,
+            165
+        ],
+        [
+            196,
+            66,
+            64
+        ],
+        [
+            162,
+            72,
+            87
+        ],
+        [
+            130,
+            95,
+            135
+        ],
+        [
+            201,
+            100,
+            59
+        ],
+        [
+            144,
+            177,
+            52
+        ],
+        [
+            1,
+            56,
+            106
+        ],
+        [
+            37,
+            163,
+            111
+        ],
+        [
+            89,
+            101,
+            109
+        ],
+        [
+            117,
+            253,
+            99
+        ],
+        [
+            33,
+            252,
+            13
+        ],
+        [
+            90,
+            134,
+            173
+        ],
+        [
+            254,
+            198,
+            21
+        ],
+        [
+            255,
+            253,
+            1
+        ],
+        [
+            223,
+            197,
+            254
+        ],
+        [
+            178,
+            100,
+            0
+        ],
+        [
+            127,
+            94,
+            0
+        ],
+        [
+            222,
+            126,
+            93
+        ],
+        [
+            4,
+            130,
+            67
+        ],
+        [
+            255,
+            255,
+            212
+        ],
+        [
+            59,
+            99,
+            140
+        ],
+        [
+            183,
+            148,
+            0
+        ],
+        [
+            132,
+            89,
+            126
+        ],
+        [
+            65,
+            25,
+            0
+        ],
+        [
+            123,
+            3,
+            35
+        ],
+        [
+            4,
+            217,
+            255
+        ],
+        [
+            102,
+            126,
+            44
+        ],
+        [
+            251,
+            238,
+            172
+        ],
+        [
+            215,
+            255,
+            254
+        ],
+        [
+            78,
+            116,
+            150
+        ],
+        [
+            135,
+            76,
+            98
+        ],
+        [
+            213,
+            255,
+            255
+        ],
+        [
+            130,
+            109,
+            140
+        ],
+        [
+            255,
+            186,
+            205
+        ],
+        [
+            209,
+            255,
+            189
+        ],
+        [
+            68,
+            142,
+            228
+        ],
+        [
+            5,
+            71,
+            42
+        ],
+        [
+            213,
+            134,
+            157
+        ],
+        [
+            61,
+            7,
+            52
+        ],
+        [
+            74,
+            1,
+            0
+        ],
+        [
+            248,
+            72,
+            28
+        ],
+        [
+            2,
+            89,
+            15
+        ],
+        [
+            137,
+            162,
+            3
+        ],
+        [
+            224,
+            63,
+            216
+        ],
+        [
+            213,
+            138,
+            148
+        ],
+        [
+            123,
+            178,
+            116
+        ],
+        [
+            82,
+            101,
+            37
+        ],
+        [
+            201,
+            76,
+            190
+        ],
+        [
+            219,
+            75,
+            218
+        ],
+        [
+            158,
+            54,
+            35
+        ],
+        [
+            181,
+            72,
+            93
+        ],
+        [
+            115,
+            92,
+            18
+        ],
+        [
+            156,
+            109,
+            87
+        ],
+        [
+            2,
+            143,
+            30
+        ],
+        [
+            177,
+            145,
+            110
+        ],
+        [
+            73,
+            117,
+            156
+        ],
+        [
+            160,
+            69,
+            14
+        ],
+        [
+            57,
+            173,
+            72
+        ],
+        [
+            182,
+            106,
+            80
+        ],
+        [
+            140,
+            255,
+            219
+        ],
+        [
+            164,
+            190,
+            92
+        ],
+        [
+            203,
+            119,
+            35
+        ],
+        [
+            5,
+            105,
+            107
+        ],
+        [
+            206,
+            93,
+            174
+        ],
+        [
+            200,
+            90,
+            83
+        ],
+        [
+            150,
+            174,
+            141
+        ],
+        [
+            31,
+            167,
+            116
+        ],
+        [
+            122,
+            151,
+            3
+        ],
+        [
+            172,
+            147,
+            98
+        ],
+        [
+            1,
+            160,
+            73
+        ],
+        [
+            217,
+            84,
+            77
+        ],
+        [
+            250,
+            95,
+            247
+        ],
+        [
+            130,
+            202,
+            252
+        ],
+        [
+            172,
+            255,
+            252
+        ],
+        [
+            252,
+            176,
+            1
+        ],
+        [
+            145,
+            9,
+            81
+        ],
+        [
+            254,
+            44,
+            84
+        ],
+        [
+            200,
+            117,
+            196
+        ],
+        [
+            205,
+            197,
+            10
+        ],
+        [
+            253,
+            65,
+            30
+        ],
+        [
+            154,
+            2,
+            0
+        ],
+        [
+            190,
+            100,
+            0
+        ],
+        [
+            3,
+            10,
+            167
+        ],
+        [
+            254,
+            1,
+            154
+        ],
+        [
+            247,
+            135,
+            154
+        ],
+        [
+            136,
+            113,
+            145
+        ],
+        [
+            176,
+            1,
+            73
+        ],
+        [
+            18,
+            225,
+            147
+        ],
+        [
+            254,
+            123,
+            124
+        ],
+        [
+            255,
+            148,
+            8
+        ],
+        [
+            106,
+            110,
+            9
+        ],
+        [
+            139,
+            46,
+            22
+        ],
+        [
+            105,
+            97,
+            18
+        ],
+        [
+            225,
+            119,
+            1
+        ],
+        [
+            10,
+            72,
+            30
+        ],
+        [
+            52,
+            56,
+            55
+        ],
+        [
+            255,
+            183,
+            206
+        ],
+        [
+            106,
+            121,
+            247
+        ],
+        [
+            93,
+            6,
+            233
+        ],
+        [
+            61,
+            28,
+            2
+        ],
+        [
+            130,
+            166,
+            125
+        ],
+        [
+            190,
+            1,
+            25
+        ],
+        [
+            201,
+            255,
+            39
+        ],
+        [
+            55,
+            62,
+            2
+        ],
+        [
+            169,
+            86,
+            30
+        ],
+        [
+            202,
+            160,
+            255
+        ],
+        [
+            202,
+            102,
+            65
+        ],
+        [
+            2,
+            216,
+            233
+        ],
+        [
+            136,
+            179,
+            120
+        ],
+        [
+            152,
+            0,
+            2
+        ],
+        [
+            203,
+            1,
+            98
+        ],
+        [
+            92,
+            172,
+            45
+        ],
+        [
+            118,
+            153,
+            88
+        ],
+        [
+            162,
+            191,
+            254
+        ],
+        [
+            16,
+            166,
+            116
+        ],
+        [
+            6,
+            180,
+            139
+        ],
+        [
+            175,
+            136,
+            74
+        ],
+        [
+            11,
+            139,
+            135
+        ],
+        [
+            255,
+            167,
+            86
+        ],
+        [
+            162,
+            164,
+            21
+        ],
+        [
+            21,
+            68,
+            6
+        ],
+        [
+            133,
+            103,
+            152
+        ],
+        [
+            52,
+            1,
+            63
+        ],
+        [
+            99,
+            45,
+            233
+        ],
+        [
+            10,
+            136,
+            138
+        ],
+        [
+            111,
+            118,
+            50
+        ],
+        [
+            212,
+            106,
+            126
+        ],
+        [
+            30,
+            72,
+            143
+        ],
+        [
+            188,
+            19,
+            254
+        ],
+        [
+            126,
+            244,
+            204
+        ],
+        [
+            118,
+            205,
+            38
+        ],
+        [
+            116,
+            166,
+            98
+        ],
+        [
+            128,
+            1,
+            63
+        ],
+        [
+            177,
+            209,
+            252
+        ],
+        [
+            255,
+            255,
+            228
+        ],
+        [
+            6,
+            82,
+            255
+        ],
+        [
+            4,
+            92,
+            90
+        ],
+        [
+            87,
+            41,
+            206
+        ],
+        [
+            6,
+            154,
+            243
+        ],
+        [
+            255,
+            0,
+            13
+        ],
+        [
+            241,
+            12,
+            69
+        ],
+        [
+            81,
+            112,
+            215
+        ],
+        [
+            172,
+            191,
+            105
+        ],
+        [
+            108,
+            52,
+            97
+        ],
+        [
+            94,
+            129,
+            157
+        ],
+        [
+            96,
+            30,
+            249
+        ],
+        [
+            176,
+            221,
+            22
+        ],
+        [
+            205,
+            253,
+            2
+        ],
+        [
+            44,
+            111,
+            187
+        ],
+        [
+            192,
+            115,
+            122
+        ],
+        [
+            214,
+            180,
+            252
+        ],
+        [
+            2,
+            0,
+            53
+        ],
+        [
+            112,
+            59,
+            231
+        ],
+        [
+            253,
+            60,
+            6
+        ],
+        [
+            150,
+            0,
+            86
+        ],
+        [
+            64,
+            163,
+            104
+        ],
+        [
+            3,
+            113,
+            156
+        ],
+        [
+            252,
+            90,
+            80
+        ],
+        [
+            255,
+            255,
+            194
+        ],
+        [
+            127,
+            43,
+            10
+        ],
+        [
+            176,
+            78,
+            15
+        ],
+        [
+            160,
+            54,
+            35
+        ],
+        [
+            135,
+            174,
+            115
+        ],
+        [
+            120,
+            155,
+            115
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            152,
+            239,
+            249
+        ],
+        [
+            101,
+            139,
+            56
+        ],
+        [
+            90,
+            125,
+            154
+        ],
+        [
+            56,
+            8,
+            53
+        ],
+        [
+            255,
+            254,
+            122
+        ],
+        [
+            92,
+            169,
+            4
+        ],
+        [
+            216,
+            220,
+            214
+        ],
+        [
+            165,
+            165,
+            2
+        ],
+        [
+            214,
+            72,
+            215
+        ],
+        [
+            4,
+            116,
+            149
+        ],
+        [
+            183,
+            144,
+            212
+        ],
+        [
+            91,
+            124,
+            153
+        ],
+        [
+            96,
+            124,
+            142
+        ],
+        [
+            11,
+            64,
+            8
+        ],
+        [
+            237,
+            13,
+            217
+        ],
+        [
+            140,
+            0,
+            15
+        ],
+        [
+            255,
+            255,
+            132
+        ],
+        [
+            191,
+            144,
+            5
+        ],
+        [
+            210,
+            189,
+            10
+        ],
+        [
+            255,
+            71,
+            76
+        ],
+        [
+            4,
+            133,
+            209
+        ],
+        [
+            255,
+            207,
+            220
+        ],
+        [
+            4,
+            2,
+            115
+        ],
+        [
+            168,
+            60,
+            9
+        ],
+        [
+            144,
+            228,
+            193
+        ],
+        [
+            81,
+            101,
+            114
+        ],
+        [
+            250,
+            194,
+            5
+        ],
+        [
+            213,
+            182,
+            10
+        ],
+        [
+            54,
+            55,
+            55
+        ],
+        [
+            75,
+            93,
+            22
+        ],
+        [
+            107,
+            139,
+            164
+        ],
+        [
+            128,
+            249,
+            173
+        ],
+        [
+            165,
+            126,
+            82
+        ],
+        [
+            169,
+            249,
+            113
+        ],
+        [
+            198,
+            81,
+            2
+        ],
+        [
+            226,
+            202,
+            118
+        ],
+        [
+            176,
+            255,
+            157
+        ],
+        [
+            159,
+            254,
+            176
+        ],
+        [
+            253,
+            170,
+            72
+        ],
+        [
+            254,
+            1,
+            177
+        ],
+        [
+            193,
+            248,
+            10
+        ],
+        [
+            54,
+            1,
+            63
+        ],
+        [
+            52,
+            28,
+            2
+        ],
+        [
+            185,
+            162,
+            129
+        ],
+        [
+            142,
+            171,
+            18
+        ],
+        [
+            154,
+            174,
+            7
+        ],
+        [
+            2,
+            171,
+            46
+        ],
+        [
+            122,
+            249,
+            171
+        ],
+        [
+            19,
+            126,
+            109
+        ],
+        [
+            170,
+            166,
+            98
+        ],
+        [
+            97,
+            0,
+            35
+        ],
+        [
+            1,
+            77,
+            78
+        ],
+        [
+            143,
+            20,
+            2
+        ],
+        [
+            75,
+            0,
+            110
+        ],
+        [
+            88,
+            15,
+            65
+        ],
+        [
+            143,
+            255,
+            159
+        ],
+        [
+            219,
+            180,
+            12
+        ],
+        [
+            162,
+            207,
+            254
+        ],
+        [
+            192,
+            251,
+            45
+        ],
+        [
+            190,
+            3,
+            253
+        ],
+        [
+            132,
+            0,
+            0
+        ],
+        [
+            208,
+            254,
+            254
+        ],
+        [
+            63,
+            155,
+            11
+        ],
+        [
+            1,
+            21,
+            62
+        ],
+        [
+            4,
+            216,
+            178
+        ],
+        [
+            192,
+            78,
+            1
+        ],
+        [
+            12,
+            255,
+            12
+        ],
+        [
+            1,
+            101,
+            252
+        ],
+        [
+            207,
+            98,
+            117
+        ],
+        [
+            255,
+            209,
+            223
+        ],
+        [
+            206,
+            179,
+            1
+        ],
+        [
+            56,
+            2,
+            130
+        ],
+        [
+            170,
+            255,
+            50
+        ],
+        [
+            83,
+            252,
+            161
+        ],
+        [
+            142,
+            130,
+            254
+        ],
+        [
+            203,
+            65,
+            107
+        ],
+        [
+            103,
+            122,
+            4
+        ],
+        [
+            255,
+            176,
+            124
+        ],
+        [
+            199,
+            253,
+            181
+        ],
+        [
+            173,
+            129,
+            80
+        ],
+        [
+            255,
+            2,
+            141
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            206,
+            162,
+            253
+        ],
+        [
+            0,
+            17,
+            70
+        ],
+        [
+            5,
+            4,
+            170
+        ],
+        [
+            230,
+            218,
+            166
+        ],
+        [
+            255,
+            121,
+            108
+        ],
+        [
+            110,
+            117,
+            14
+        ],
+        [
+            101,
+            0,
+            33
+        ],
+        [
+            1,
+            255,
+            7
+        ],
+        [
+            53,
+            6,
+            62
+        ],
+        [
+            174,
+            113,
+            129
+        ],
+        [
+            6,
+            71,
+            12
+        ],
+        [
+            19,
+            234,
+            201
+        ],
+        [
+            0,
+            255,
+            255
+        ],
+        [
+            209,
+            178,
+            111
+        ],
+        [
+            0,
+            3,
+            91
+        ],
+        [
+            199,
+            159,
+            239
+        ],
+        [
+            6,
+            194,
+            172
+        ],
+        [
+            3,
+            53,
+            0
+        ],
+        [
+            154,
+            14,
+            234
+        ],
+        [
+            191,
+            119,
+            246
+        ],
+        [
+            137,
+            254,
+            5
+        ],
+        [
+            146,
+            149,
+            145
+        ],
+        [
+            117,
+            187,
+            253
+        ],
+        [
+            255,
+            255,
+            20
+        ],
+        [
+            194,
+            0,
+            120
+        ],
+        [
+            150,
+            249,
+            123
+        ],
+        [
+            249,
+            115,
+            6
+        ],
+        [
+            2,
+            147,
+            134
+        ],
+        [
+            149,
+            208,
+            252
+        ],
+        [
+            229,
+            0,
+            0
+        ],
+        [
+            101,
+            55,
+            0
+        ],
+        [
+            255,
+            129,
+            192
+        ],
+        [
+            3,
+            67,
+            223
+        ],
+        [
+            21,
+            176,
+            26
+        ],
+        [
+            126,
+            30,
+            156
+        ]
+    ]
+}

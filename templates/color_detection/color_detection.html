@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block content%}
+<main role="main">
+
+    <section class="jumbotron text-center">
+        <div class="container">
+            <h1 class="jumbotron-heading">Extract & Indtify <small class="text-muted">color of the image</small> </h1>
+            <p class="text-muted text-justify"> We extract color from an image and identify extractd colors. This is <b
+                    style="color: black;">Machine Learning</b> based projects. In the background we used computer vision
+                algorithm to extrac pixels and clustering algorithm to identify colors. </p>
+            <hr>
+
+        </div>
+
+        <div class="container">
+
+            <p class="lead">Choose a image file to know which color presents in the image.</p>
+            <br>
+            <form method="POST" action="{% url 'color-detection' %}" enctype="multipart/form-data">
+                <div class="form-group">
+                    {% csrf_token %}
+                    {{form.as_p}}
+
+                    <input type="submit" class="btn btn-success">
+                </div>
+
+            </form>
+
+        </div>
+    </section>
+
+</main>
+
+
+{% endblock content%}

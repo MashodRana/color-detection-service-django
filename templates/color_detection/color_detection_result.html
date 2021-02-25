@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% load index %}
+{% block content%}
+<main role="main">
+
+    <div class="container">
+        <div class="card mb-3">
+            <img src="data:image/png;base64,{{image}}" alt="Pie Chart" class="card-img-top">
+            <div class="card-body">
+                <h5 class="card-title">Present Colors</h5>
+                <p class="card-text">The following colors are present in the image</p>
+                <ul>
+                    {% for color_name in colors_name %}
+                    <li>
+                        <p class="card-text text-muted">
+                            {{color_name}} ({{colors_percentage|index:forloop.counter0|floatformat}}%)</p>
+                    </li>
+                    {% endfor %}
+                </ul>
+
+            </div>
+        </div>
+    </div>
+
+
+</main>
+
+
+{% endblock content%}
