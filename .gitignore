@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+
+__pycache__/
+color_detection/__pycache__/
+color_detection/migrations/
+color_detection/service/__pycache__/
+
+color_detection_image/__pycache__/
